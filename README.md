@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student | Aspiring Cybersecurity Professional
 --------------------------------------------------------------
 
-I’m a Computer Science student at UBC Okanagan graduating in June 2026. I build full‑stack applications using Java, TypeScript, React, Next.js, Spring Boot, and SQL, and I’ve worked on UI development, backend APIs, and team‑based software projects. I’m currently exploring cybersecurity and backend engineering, and I’m looking for opportunities to contribute to real‑world software while continuing to grow my technical skills.
+I am a soon-to-be-graduating Computer Science student at UBC Okanagan with experience in Java, TypeScript, and SQL. Through my academic projects, I have gained experience building user interfaces and collaborating in team environments. I am now exploring my interest in Cybersecurity and am eager to start my professional career in a role where I can contribute to a team while continuing to grow my technical skills.
 
 * 🌍  I'm based in British Columbia, Canada
 
