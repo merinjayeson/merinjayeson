@@ -8,7 +8,7 @@ I am a soon-to-be-graduating Computer Science student at UBC Okanagan with exper
 
 * 🌍  I'm based in British Columbia, Canada
 
-## **Skills**
+## **Languages & Tools**
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
@@ -25,9 +25,6 @@ I am a soon-to-be-graduating Computer Science student at UBC Okanagan with exper
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a>
   
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40" height="40" alt="Next.js" /></a>
-  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" /></a>
 </p>
-
