@@ -10,60 +10,52 @@ I am Computer Science graduate from UBC Okanagan with experience in Java, TypeSc
 
 * 🌍  I'm based in British Columbia, Canada
 
-* <a href="www.linkedin.com/in/merinjayeson"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+* <a href="https://linkedin.com/in/merinjayeson"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Skills
 
-<div style="display: inline-block; text-align: center; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" />
-  <div style="font-size: 12px;">Java</div>
-</div>
-<div style="display: inline-block; text-align: center; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" />
-  <div style="font-size: 12px;">Python</div>
-</div>
-<div style="display: inline-block; text-align: center; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" />
-  <div style="font-size: 12px;">TypeScript</div>
-</div>
-<div style="display: inline-block; text-align: center; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" />
-  <div style="font-size: 12px;">Figma</div>
-</div>
-<div style="display: inline-block; text-align: center; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" style="filter: invert(1);" />
-  <div style="font-size: 12px;">GitHub</div>
-</div>
-<div style="display: inline-block; text-align: center; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" />
-  <div style="font-size: 12px;">SQL</div>
-</div>
-<div style="display: inline-block; text-align: center; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" />
-  <div style="font-size: 12px;">HTML</div>
-</div>
-<div style="display: inline-block; text-align: center; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" />
-  <div style="font-size: 12px;">Tailwind CSS</div>
-</div>
-<div style="display: inline-block; text-align: center; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" />
-  <div style="font-size: 12px;">React</div>
-</div>
-<div style="display: inline-block; text-align: center; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" />
-  <div style="font-size: 12px;">Next.js</div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" /><br>Java
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" /><br>Python
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" /><br>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" /><br>Figma
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" style="filter: invert(1);" /><br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" /><br>SQL
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" /><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" /><br>Tailwind CSS
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" /><br>React
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" />
+      <br>Next.js
+    </td>
+    <td align="center">
+      <img src="https://vitest.dev/logo.svg" width="36" height="36" /><br>Vitest
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" /><br>Docker
+    </td>
+  </tr>
+</table>
 
-<div style="display: inline-block; text-align: center; margin-right: 10px;">
-  <img src="https://vitest.dev/logo.svg" width="36" height="36" />
-  <div style="font-size: 12px;">Vitest</div>
-</div>
-<div style="display: inline-block; text-align: center; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" />
-  
-  <div style="font-size: 12px;">Docker</div>
-</div>
 
 
 ## Tools
