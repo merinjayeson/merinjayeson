@@ -6,7 +6,7 @@ Computer Science Student | Aspiring Cybersecurity Professional
 
 ## Brief Intro and Objective:
 
-I am Computer Science graduate from UBC Okanagan with experience in Java, TypeScript, HTML, Tailwind CSS, React, NextJS, SQL and recently Python. Through my academic projects, I have gained experience building user interfaces and collaborating in team environments. I am now exploring my growing interest in Cybersecurity and am eager to start my professional career in a role such as a SOC (Security Operations Center) Analyst where I can contribute to a team while continuing to grow my technical skills.
+I am a Computer Science graduate from UBC Okanagan with experience in Java, TypeScript, HTML, Tailwind CSS, React, NextJS, SQL and recently Python. Through my academic projects, I have gained experience building user interfaces and collaborating in team environments. I am now exploring my growing interest in Cybersecurity and am eager to start my professional career in a role such as a SOC (Security Operations Center) Analyst where I can contribute to a team while continuing to grow my technical skills.
 
 * 🌍  I'm based in British Columbia, Canada
 
